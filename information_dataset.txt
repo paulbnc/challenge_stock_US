@@ -1,0 +1,10 @@
+file named 'X.csv' can be found here after creating an account (download 'X_train') :
+https://challengedata.ens.fr/participants/challenges/23/
+
+file named 'y.csv' can be found here after creating an account (download 'y_train') :
+https://challengedata.ens.fr/participants/challenges/23/
+
+Then, create a folder 'dataset' :
+./dataset
+	/X.csv
+	/y.csv
